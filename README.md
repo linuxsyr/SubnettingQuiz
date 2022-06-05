@@ -22,4 +22,4 @@ After installation, you can search the App "SubenttingQuiz" from the Search Box
 
 
 
-Note: you dont need to install .core NER or any another run time. the app containt all packages
+Note: you dont need to install .core NET or any another run time. the app containt all packages
