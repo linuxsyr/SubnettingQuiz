@@ -7,6 +7,14 @@ Extract all
 ![12](https://user-images.githubusercontent.com/100967318/172074793-68863425-c942-4ff4-a52b-1acf5e932e57.jpg)
 
 
+Click the setup.exe file
+
+
+![13](https://user-images.githubusercontent.com/100967318/172074867-94b6f570-f8b6-4174-9600-60d8c5cb0c9c.jpg)
+
+
+![14](https://user-images.githubusercontent.com/100967318/172074882-bb9d8675-7963-405d-8202-f964a38cbda9.jpg)
+
 After installation, you can search the App "SubenttingQuiz" from the Search Box
 
 
