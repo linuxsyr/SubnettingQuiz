@@ -23,3 +23,7 @@ After installation, you can search the App "SubenttingQuiz" from the Search Box
 
 
 Note: you dont need to install .core NET or any another run time. the app containt all packages
+
+Scanned by virustotol:
+
+https://www.virustotal.com/gui/url/55f4408947ed5d81aca79ba39c6e442f1c39beac5df4198e92fe67ac6e5fdc38/detection
